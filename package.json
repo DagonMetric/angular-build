@@ -161,6 +161,6 @@
     "typescript-json-schema": "^0.39.0",
     "typescript-tslint-plugin": "^0.5.4",
     "webpack-dev-server": "^3.7.2",
-    "zone.js": "^0.9.1"
+    "zone.js": "^0.10.0"
   }
 }
