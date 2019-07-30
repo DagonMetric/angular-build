@@ -121,7 +121,7 @@
     "update-notifier": "^3.0.1",
     "url-loader": "^2.1.0",
     "webpack": "^4.38.0",
-    "webpack-bundle-analyzer": "^3.4.0",
+    "webpack-bundle-analyzer": "^3.4.1",
     "webpack-merge": "^4.2.1",
     "webpack-sources": "^1.3.0",
     "yargs": "^13.3.0"
