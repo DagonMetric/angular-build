@@ -152,7 +152,7 @@
     "@types/webpack": "^4.32.1",
     "@types/webpack-merge": "^4.1.5",
     "@types/webpack-sources": "^0.1.5",
-    "@types/yargs": "^13.0.1",
+    "@types/yargs": "^13.0.2",
     "rimraf": "^2.6.3",
     "source-map": "^0.7.3",
     "source-map-support": "^0.5.12",
