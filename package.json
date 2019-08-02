@@ -120,7 +120,7 @@
     "uglify-js": "^3.6.0",
     "update-notifier": "^3.0.1",
     "url-loader": "^2.1.0",
-    "webpack": "^4.39.0",
+    "webpack": "^4.39.1",
     "webpack-bundle-analyzer": "^3.4.1",
     "webpack-merge": "^4.2.1",
     "webpack-sources": "^1.4.1",
