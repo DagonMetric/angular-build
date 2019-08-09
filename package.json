@@ -110,7 +110,7 @@
     "rollup-plugin-commonjs": "^10.0.2",
     "rollup-plugin-node-resolve": "^5.2.0",
     "rxjs": "~6.4.0",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^7.2.0",
     "sorcery": "^0.10.0",
     "source-map-url": "^0.4.0",
     "style-loader": "^1.0.0",
@@ -162,7 +162,7 @@
     "tslint-microsoft-contrib": "^6.2.0",
     "typescript-json-schema": "^0.39.0",
     "typescript-tslint-plugin": "^0.5.4",
-    "webpack-dev-server": "^3.7.2",
+    "webpack-dev-server": "^3.8.0",
     "zone.js": "^0.10.1"
   }
 }
