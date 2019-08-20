@@ -158,7 +158,7 @@
     "rimraf": "^3.0.0",
     "source-map": "^0.7.3",
     "source-map-support": "^0.5.13",
-    "tslint": "^5.18.0",
+    "tslint": "^5.19.0",
     "tslint-microsoft-contrib": "^6.2.0",
     "typescript-json-schema": "^0.39.0",
     "typescript-tslint-plugin": "^0.5.4",
