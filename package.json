@@ -75,10 +75,10 @@
     "build:ng:app1:prod": "ng build app1 --verbose -c=production"
   },
   "dependencies": {
-    "@angular-devkit/architect": "^0.803.4",
-    "@angular-devkit/build-optimizer": "^0.803.4",
-    "@angular-devkit/core": "^8.3.4",
-    "@ngtools/webpack": "^8.3.4",
+    "@angular-devkit/architect": "^0.803.5",
+    "@angular-devkit/build-optimizer": "^0.803.5",
+    "@angular-devkit/core": "^8.3.5",
+    "@ngtools/webpack": "^8.3.5",
     "ajv": "^6.10.2",
     "ajv-keywords": "^3.4.1",
     "autoprefixer": "^9.6.1",
