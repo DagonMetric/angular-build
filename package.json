@@ -81,7 +81,7 @@
     "@ngtools/webpack": "^8.3.14",
     "ajv": "^6.10.2",
     "ajv-keywords": "^3.4.1",
-    "autoprefixer": "^9.6.5",
+    "autoprefixer": "^9.7.0",
     "builtins": "^2.0.1",
     "clean-css": "^4.2.1",
     "cross-spawn": "^7.0.1",
