@@ -98,7 +98,7 @@
     "magic-string": "^0.25.4",
     "mini-css-extract-plugin": "^0.8.0",
     "minimatch": "^3.0.4",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.0",
     "parse5": "^5.1.0",
     "postcss": "^7.0.18",
     "postcss-import": "^12.0.1",
