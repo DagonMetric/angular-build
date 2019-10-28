@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@angular-devkit/architect@0.803.14", "@angular-devkit/architect@^0.803.14":
+"@angular-devkit/architect@0.803.14":
   version "0.803.14"
   resolved "https://registry.yarnpkg.com/@angular-devkit/architect/-/architect-0.803.14.tgz#548d0a2e4e0052162c53ab75c50171e6496d4c0c"
   integrity sha512-CPDDNTpM/9XWCFxCRL1/mYB54ivZcmWaVSjUgN2zcHWBc0gW3lrJrmmb+cJ1KSlOI7hoZaMTV1gWoX2QXd4JrA==
@@ -10,10 +10,18 @@
     "@angular-devkit/core" "8.3.14"
     rxjs "6.4.0"
 
-"@angular-devkit/build-optimizer@^0.803.14":
-  version "0.803.14"
-  resolved "https://registry.yarnpkg.com/@angular-devkit/build-optimizer/-/build-optimizer-0.803.14.tgz#ca76c25e730c9181649fdde16a49062a4b2d1605"
-  integrity sha512-f1RYhO0swLfoLvCj/fUrDWm4vzVSnffcCc4C4PHnqoOGBRQpmIzG7G54Pm8YK677slioToYZQ68s3/zVtsQNWg==
+"@angular-devkit/architect@^0.803.15":
+  version "0.803.15"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/architect/-/architect-0.803.15.tgz#8decc3d948d0258edd7f8368cb7e9718ad39a7c1"
+  integrity sha512-kxDhEPckatii2efN5mqB2bbGvI65K+sV8iR/yVMN5wK8qchvA9ayU0Qudg2xECvwudxfaZnIbJAoCibEkmdzuw==
+  dependencies:
+    "@angular-devkit/core" "8.3.15"
+    rxjs "6.4.0"
+
+"@angular-devkit/build-optimizer@^0.803.15":
+  version "0.803.15"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/build-optimizer/-/build-optimizer-0.803.15.tgz#736835554025ee7f9551fdcdcf642686df277389"
+  integrity sha512-uu7RSCc5VsRTcBY0BEjzKiNFmA4PnbjOiPkEXIRjasnEa+PKzhTeiHC0W9gqWW900ea6+sL0W5+rvEeLOjxmuw==
   dependencies:
     loader-utils "1.2.3"
     source-map "0.7.3"
@@ -21,10 +29,21 @@
     typescript "3.5.3"
     webpack-sources "1.4.3"
 
-"@angular-devkit/core@8.3.14", "@angular-devkit/core@^8.3.14":
+"@angular-devkit/core@8.3.14":
   version "8.3.14"
   resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-8.3.14.tgz#b42716a0de44c8f2785a18ae5562ec2f76543c9b"
   integrity sha512-+IYLbtCxwIpaieRj0wurEXBzZ/fDSdWbyrCfajzDerzsxqghNcafAXSazHXWwISqtbr/pAOuqUNR+mEk2XBz3Q==
+  dependencies:
+    ajv "6.10.2"
+    fast-json-stable-stringify "2.0.0"
+    magic-string "0.25.3"
+    rxjs "6.4.0"
+    source-map "0.7.3"
+
+"@angular-devkit/core@8.3.15", "@angular-devkit/core@^8.3.15":
+  version "8.3.15"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-8.3.15.tgz#54629457e81c75952e6075d64214e2ada5e39efa"
+  integrity sha512-FYUYNcggvRm7glfmqsRgBA1N6ubkINVx2nquZZX10AeCIs4MRqlG4UsddFbOvVckIF/4Q+tBK5P/NngpP1zGXA==
   dependencies:
     ajv "6.10.2"
     fast-json-stable-stringify "2.0.0"
@@ -140,12 +159,12 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@ngtools/webpack@^8.3.14":
-  version "8.3.14"
-  resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-8.3.14.tgz#ecac2651d2da7407f60acfb24ba03c460a79af1d"
-  integrity sha512-eIU3W3T4YxiExkS/c09FkqQpnKeIuUFFnxyfdG40zospt28B6V5ZaEVw2z5+2CjxJlDUTUYZlhPiV9Rwadp3jg==
+"@ngtools/webpack@^8.3.15":
+  version "8.3.15"
+  resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-8.3.15.tgz#1b523e56693bc459accc734a0d9b93f3e1d1b6b2"
+  integrity sha512-eenlDUIlB1sjmNgioq2gFG2wt9rpgouQBOdjN/PKigglo4XvCPrJYN5XhcinL9Douy28HCTmPHo8+IjMgQChOA==
   dependencies:
-    "@angular-devkit/core" "8.3.14"
+    "@angular-devkit/core" "8.3.15"
     enhanced-resolve "4.1.0"
     rxjs "6.4.0"
     tree-kill "1.2.1"
