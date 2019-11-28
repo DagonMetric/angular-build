@@ -113,7 +113,7 @@
     "sass-loader": "^8.0.0",
     "sorcery": "^0.10.0",
     "source-map-url": "^0.4.0",
-    "style-loader": "^1.0.0",
+    "style-loader": "^1.0.1",
     "supports-color": "^7.1.0",
     "terser-webpack-plugin": "^2.2.1",
     "ts-loader": "^6.2.1",
