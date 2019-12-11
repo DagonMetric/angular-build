@@ -115,7 +115,7 @@
     "source-map-url": "^0.4.0",
     "style-loader": "^1.0.1",
     "supports-color": "^7.1.0",
-    "terser-webpack-plugin": "^2.2.2",
+    "terser-webpack-plugin": "^2.2.3",
     "ts-loader": "^6.2.1",
     "tsickle": "^0.37.0",
     "typescript": "~3.5.3",
