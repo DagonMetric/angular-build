@@ -162,7 +162,7 @@
     "tslint-microsoft-contrib": "^6.2.0",
     "typescript-json-schema": "^0.41.0",
     "typescript-tslint-plugin": "^0.5.5",
-    "webpack-dev-server": "^3.9.0",
+    "webpack-dev-server": "^3.10.0",
     "zone.js": "^0.10.2"
   }
 }
