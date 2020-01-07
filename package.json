@@ -160,7 +160,7 @@
     "source-map-support": "^0.5.16",
     "tslint": "^5.20.1",
     "tslint-microsoft-contrib": "^6.2.0",
-    "typescript-json-schema": "^0.41.0",
+    "typescript-json-schema": "^0.42.0",
     "typescript-tslint-plugin": "^0.5.5",
     "webpack-dev-server": "^3.10.1",
     "zone.js": "^0.10.2"
