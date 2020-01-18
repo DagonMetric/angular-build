@@ -79,7 +79,7 @@
     "@angular-devkit/build-optimizer": "^0.803.23",
     "@angular-devkit/core": "^8.3.23",
     "@ngtools/webpack": "^8.3.23",
-    "ajv": "^6.10.2",
+    "ajv": "^6.11.0",
     "ajv-keywords": "^3.4.1",
     "autoprefixer": "^9.7.4",
     "builtins": "^3.0.0",
