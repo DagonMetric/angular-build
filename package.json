@@ -90,7 +90,7 @@
     "denodeify": "^1.2.1",
     "ejs": "^3.0.1",
     "file-loader": "^6.0.0",
-    "fs-extra": "^8.1.0",
+    "fs-extra": "^9.0.0",
     "glob": "^7.1.6",
     "html-minifier": "^4.0.0",
     "license-webpack-plugin": "^2.1.4",
