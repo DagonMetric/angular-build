@@ -119,7 +119,7 @@
     "ts-loader": "^7.0.4",
     "tsickle": "^0.38.0",
     "typescript": "~3.5.3",
-    "uglify-js": "^3.9.2",
+    "uglify-js": "^3.9.3",
     "update-notifier": "^4.1.0",
     "url-loader": "^4.1.0",
     "webpack": "4.43.0",
