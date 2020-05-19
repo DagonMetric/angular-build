@@ -118,7 +118,7 @@
     "terser-webpack-plugin": "^3.0.1",
     "ts-loader": "^7.0.4",
     "tsickle": "^0.38.0",
-    "typescript": "~3.5.3",
+    "typescript": "~3.9.3",
     "uglify-js": "^3.9.3",
     "update-notifier": "^4.1.0",
     "url-loader": "^4.1.0",
