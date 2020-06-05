@@ -141,7 +141,7 @@
     "@types/cross-spawn": "^6.0.2",
     "@types/denodeify": "^1.2.31",
     "@types/fs-extra": "^9.0.1",
-    "@types/glob": "^7.1.1",
+    "@types/glob": "^7.1.2",
     "@types/html-minifier": "^3.5.3",
     "@types/loader-utils": "^2.0.0",
     "@types/minimatch": "^3.0.3",
