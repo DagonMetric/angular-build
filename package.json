@@ -82,7 +82,7 @@
     "@rollup/plugin-commonjs": "^13.0.0",
     "@rollup/plugin-node-resolve": "^8.0.1",
     "ajv": "^6.12.2",
-    "ajv-keywords": "^3.4.1",
+    "ajv-keywords": "^3.5.0",
     "autoprefixer": "^9.8.0",
     "builtins": "^3.0.1",
     "clean-css": "^4.2.3",
