@@ -80,7 +80,7 @@
     "@angular-devkit/core": "^9.1.9",
     "@ngtools/webpack": "^9.1.9",
     "@rollup/plugin-commonjs": "^13.0.0",
-    "@rollup/plugin-node-resolve": "^8.0.1",
+    "@rollup/plugin-node-resolve": "^8.1.0",
     "ajv": "^6.12.2",
     "ajv-keywords": "^3.5.0",
     "autoprefixer": "^9.8.2",
