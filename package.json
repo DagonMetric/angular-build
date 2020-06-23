@@ -83,7 +83,7 @@
     "@rollup/plugin-node-resolve": "^8.1.0",
     "ajv": "^6.12.2",
     "ajv-keywords": "^3.5.0",
-    "autoprefixer": "^9.8.2",
+    "autoprefixer": "^9.8.3",
     "builtins": "^3.0.1",
     "clean-css": "^4.2.3",
     "cross-spawn": "^7.0.3",
