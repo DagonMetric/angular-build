@@ -126,7 +126,7 @@
     "webpack-bundle-analyzer": "^3.8.0",
     "webpack-merge": "^4.2.2",
     "webpack-sources": "^1.4.3",
-    "yargs": "^15.4.0"
+    "yargs": "^15.4.1"
   },
   "devDependencies": {
     "@angular/cli": "^10.0.2",
