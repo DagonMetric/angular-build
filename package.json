@@ -75,10 +75,10 @@
     "build:ng:app1:prod": "ng build app1 --verbose -c=production"
   },
   "dependencies": {
-    "@angular-devkit/architect": "^0.1000.3",
-    "@angular-devkit/build-optimizer": "^0.1000.3",
-    "@angular-devkit/core": "^10.0.3",
-    "@ngtools/webpack": "^10.0.3",
+    "@angular-devkit/architect": "^0.1000.4",
+    "@angular-devkit/build-optimizer": "^0.1000.4",
+    "@angular-devkit/core": "^10.0.4",
+    "@ngtools/webpack": "^10.0.4",
     "@rollup/plugin-commonjs": "^14.0.0",
     "@rollup/plugin-node-resolve": "^8.4.0",
     "ajv": "^6.12.3",
