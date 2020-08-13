@@ -79,7 +79,7 @@
     "@angular-devkit/build-optimizer": "^0.1000.6",
     "@angular-devkit/core": "^10.0.6",
     "@ngtools/webpack": "^10.0.6",
-    "@rollup/plugin-commonjs": "^14.0.0",
+    "@rollup/plugin-commonjs": "^15.0.0",
     "@rollup/plugin-node-resolve": "^8.4.0",
     "ajv": "^6.12.3",
     "ajv-keywords": "^3.5.2",
