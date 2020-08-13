@@ -129,7 +129,7 @@
     "yargs": "^15.4.1"
   },
   "devDependencies": {
-    "@angular/cli": "^10.0.5",
+    "@angular/cli": "^10.0.6",
     "@angular/common": "^10.0.9",
     "@angular/compiler": "^10.0.9",
     "@angular/compiler-cli": "^10.0.9",
