@@ -120,7 +120,7 @@
     "tsickle": "^0.39.1",
     "typescript": "~3.9.6",
     "uglify-js": "^3.10.1",
-    "update-notifier": "^4.1.0",
+    "update-notifier": "^4.1.1",
     "url-loader": "^4.1.0",
     "webpack": "4.44.1",
     "webpack-bundle-analyzer": "^3.8.0",
