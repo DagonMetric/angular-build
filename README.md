@@ -9,6 +9,10 @@
 
 Another bundling and npm packaging helper tool for Typescript & Angular library projects. It also supports for bundling of Angular application projects.
 
+## Project Moved
+
+This repo is now archived and moved to [https://github.com/lib-tools/lib-tools](https://github.com/lib-tools/lib-tools).
+
 ## Features
 
 * Bundling and npm packaging of Angular & Typescript library projects (internally with [rollup](https://rollupjs.org)).
